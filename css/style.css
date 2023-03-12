@@ -83,11 +83,14 @@ a:hover {
 	list-style-type: none;
 }
 .hdr-nav ul li a {
-	font-size: 1rem;
+	font-size: 16px;
 	line-height: 1.5em;
     letter-spacing: .05625em;
     color: #707070;
     text-transform: capitalize;
+}
+.hdr-nav ul li a:hover {
+	text-decoration: none;
 }
 
 /* Banner Area */
@@ -135,7 +138,7 @@ a:hover {
 	margin-top: 50px;
 }
 .single-cat {
-	height: 50vh;
+	height: 350px;
 	padding: 35px;
 	display: flex;
 	align-items: center;
@@ -314,7 +317,7 @@ h4.ftr-widget-title {
 	background-color: #fff;
 }
 .copy-right-txt {
-	font-size: 1rem;
+	font-size: 16px;
 	padding: 18.5px 0;
 }
 
