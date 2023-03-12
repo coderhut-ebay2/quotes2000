@@ -61,6 +61,7 @@ a:hover {
 .tem-btn:hover {
 	background-color: #9f05d2;
 	color: #fff;
+	text-decoration: none;
 }
 
 
@@ -304,6 +305,9 @@ h4.ftr-widget-title {
 	padding-top: 10px;
 	bottom: 10px;
 	font-size: 16px;
+}
+.ftr-widget ul li a:hover {
+	text-decoration: none;
 }
 .newsletter-widget {
 	padding-top: 10px;
