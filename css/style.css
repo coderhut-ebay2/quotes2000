@@ -63,6 +63,9 @@ a:hover {
 	color: #fff;
 	text-decoration: none;
 }
+.tem-btn:visited {
+	color: #fff;
+}
 
 
 /* Header */
@@ -184,7 +187,7 @@ a:hover {
 
 .slider {
     position: relative;
-    padding-top: 700px;
+    padding-top: 1380px;
     text-align: center;
     margin-bottom: 50px;
 }
@@ -197,7 +200,7 @@ a:hover {
 }
 .slider .large img {
     width: auto;
-    height: 680px;
+    height: 1360px;
     max-width: 100%;
 }
 .slider input[name='slide_switch'] {
