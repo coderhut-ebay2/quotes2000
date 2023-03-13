@@ -68,6 +68,10 @@ a:hover {
 	color: #fff;
 	text-decoration: none;
 }
+.tem-btn:focus {
+	text-decoration: none;
+	outline: 0;
+}
 
 
 /* Header */
